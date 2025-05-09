@@ -1,0 +1,121 @@
+Note;Kategori;Skor_Siang;Skor_Malam
+Bergamot;Citrus;5;2
+Lemon;Citrus;5;2
+Grapefruit;Citrus;5;2
+Orange;Citrus;5;2
+Mandarin Orange;Citrus;5;2
+Lime;Citrus;5;2
+Neroli;Citrus/Floral;4;2
+Petitgrain;Citrus;4;2
+Yuzu;Citrus;5;2
+Kumquat;Citrus;5;2
+Pineapple;Fruity;5;2
+Apple;Fruity;5;2
+Peach;Fruity;4;3
+Pear;Fruity;4;3
+Blackcurrant;Fruity;4;3
+Strawberry;Fruity;4;3
+Cherry;Fruity;3;4
+Fig;Fruity;3;3
+Raspberry;Fruity;4;3
+Apricot;Fruity;4;3
+Rose;Floral;4;3
+Jasmine;Floral;4;3
+Orange Blossom;Floral;4;3
+Ylang-Ylang;Floral;3;4
+Tuberose;Floral;2;4
+Lily of the Valley;Floral;4;2
+Gardenia;Floral;3;4
+Freesia;Floral;4;3
+Magnolia;Floral;4;2
+Iris;Floral;3;4
+Mint;Green/Herbal;5;2
+Sage;Green/Herbal;4;3
+Basil;Green/Herbal;4;3
+Violet Leaf;Green/Herbal;4;3
+Green Tea;Green/Herbal;5;2
+Galbanum;Green;4;2
+Thyme;Green/Herbal;4;3
+Mate;Green/Herbal;4;3
+Artemisia;Green/Herbal;3;4
+Tarragon;Green/Herbal;4;3
+Sea Notes;Aquatic;5;2
+Aquatic Notes;Aquatic;5;2
+Ozonic Notes;Aquatic;5;2
+Water Lily;Aquatic;5;2
+Rain;Aquatic;5;2
+Calone;Aquatic;5;2
+Watery Notes;Aquatic;5;2
+Cucumber;Aquatic;5;2
+Marine Accord;Aquatic;5;2
+Melon;Aquatic;5;2
+Cedarwood;Woody;3;4
+Sandalwood;Woody;3;4
+Vetiver;Woody;3;4
+Patchouli;Woody;2;4
+Guaiac Wood;Woody;2;5
+Oud (Agarwood);Woody;1;5
+Cashmeran;Woody;2;5
+Oakmoss;Woody;2;4
+Pine;Woody;4;3
+Amyris;Woody;3;4
+Black Pepper;Spicy;3;4
+Pink Pepper;Spicy;4;3
+Cardamom;Spicy;3;4
+Cinnamon;Spicy;2;4
+Nutmeg;Spicy;2;4
+Clove;Spicy;2;4
+Saffron;Spicy;3;4
+Ginger;Spicy;4;3
+Pimento;Spicy;2;4
+Chili;Spicy;2;4
+Vanilla;Sweet/Gourmand;3;5
+Tonka Bean;Sweet/Gourmand;2;5
+Caramel;Sweet/Gourmand;2;5
+Praline;Sweet/Gourmand;2;5
+Chocolate;Sweet/Gourmand;2;5
+Coffee;Sweet/Gourmand;2;5
+Honey;Sweet/Gourmand;2;5
+Coconut;Sweet/Gourmand;4;3
+Almond;Sweet/Gourmand;3;4
+Sugar;Sweet/Gourmand;2;5
+White Musk;Animalic;3;4
+Ambrette;Animalic;3;4
+Leather;Animalic;1;5
+Suede;Animalic;2;5
+Civet;Animalic;1;5
+Castoreum;Animalic;1;5
+Ambergris;Animalic;1;5
+Clean Musk;Animalic;3;3
+Fur Accord;Animalic;1;5
+Musk;Animalic;3;4
+Amber;Resin/Balsamic;2;5
+Benzoin;Resin/Balsamic;2;5
+Labdanum;Resin/Balsamic;2;5
+Myrrh;Resin/Balsamic;1;5
+Frankincense;Resin/Balsamic;1;5
+Opoponax;Resin/Balsamic;1;5
+Tolu Balsam;Resin/Balsamic;1;5
+Elemi;Resin/Balsamic;2;4
+Styrax;Resin/Balsamic;1;5
+Incense;Resin/Balsamic;1;5
+Rum;Boozy;1;5
+Cognac;Boozy;1;5
+Whiskey;Boozy;1;5
+Champagne;Boozy;2;4
+Red Wine;Boozy;1;5
+Gin;Boozy;1;5
+Brandy;Boozy;1;5
+Absinthe;Boozy;1;5
+Tequila;Boozy;1;5
+Boozy Accord;Boozy;1;5
+Aldehyde;Synthetic;4;3
+Ambroxan;Synthetic;3;4
+Iso E Super;Synthetic;3;4
+Metallic Notes;Synthetic;3;3
+Solar Notes;Synthetic;5;2
+Powdery Notes;Synthetic;3;4
+Cotton;Synthetic;4;3
+Laundry Musk;Synthetic;4;3
+Clean Accord;Synthetic;4;3
+Fresh Linen;Synthetic;4;3
